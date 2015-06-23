@@ -1,4 +1,7 @@
 This is just a sample file.
 Now it has a second line.
 Now, it even has a third line!
+-------------------------------
+This line was created after creating branch "new-feature"
+
 
